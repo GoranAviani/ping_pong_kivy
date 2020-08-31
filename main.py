@@ -3,6 +3,7 @@ kivy.require('1.11.1') # replace with your current kivy version !
 
 from kivy.app import App
 from kivy.uix.label import Label
+from kivy.uix.widget import Widget
 
 
 class PongGame(Widget):
