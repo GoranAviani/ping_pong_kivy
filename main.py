@@ -9,7 +9,7 @@ class PongGame(Widget):
     pass
 
 class PongApp(App):
-    
+
     def build(self):
         return PongGame()
 
